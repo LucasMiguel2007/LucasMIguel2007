@@ -1,31 +1,49 @@
-👨‍💻 Lucas Miguel
-Desenvolvedor Backend Python | APIs & Automação
+# 👨‍💻 Lucas Miguel
 
-Desenvolvedor Backend com Python, focado na criação de APIs REST, automações e integrações com bancos de dados.
+## Desenvolvedor Backend Python | APIs & Automação
 
-Desenvolvo soluções utilizando FastAPI para construção de APIs e PyAutoGUI e Selenium para automação de processos, buscando reduzir tarefas repetitivas e tornar processos mais eficientes.
+Desenvolvedor Backend com Python, focado na criação de **APIs REST, automações e integrações com bancos de dados**.
 
-Também trabalho com SQL, SQLAlchemy, Git e GitHub, aplicando boas práticas de desenvolvimento e organização de código.
+Desenvolvo soluções utilizando **FastAPI** para construção de APIs e **PyAutoGUI e Selenium** para automação de processos, buscando reduzir tarefas repetitivas e tornar processos mais eficientes.
+
+Também trabalho com **SQL, SQLAlchemy, Git e GitHub**, aplicando boas práticas de desenvolvimento e organização de código.
+
 ---
 
-💻 Especialidades
-🐍 Desenvolvimento Backend com Python
-⚡ APIs REST com FastAPI
-🤖 Automação de processos com PyAutoGUI
-🌐 Automação Web com Selenium
-🗄️ Bancos de dados SQL
-🔗 SQLAlchemy (ORM)
-🔄 Integração entre sistemas e serviços
-🛠️ Git e GitHub
+# 💻 Especialidades
+
+- 🐍 Desenvolvimento Backend utilizando Python;
+
+- ⚡ Desenvolvimento de APIs REST utilizando FastAPI;
+
+- 🤖 Automação de processos utilizando PyAutoGUI;
+
+- 🌐 Automação Web utilizando Selenium;
+
+- 🗄️ Integração e manipulação de bancos de dados SQL;
+
+- 🔗 Utilização do SQLAlchemy para integração com bancos de dados;
+
+- 🔄 Integração entre sistemas e serviços;
+
+- 🛠️ Versionamento de projetos utilizando Git e GitHub.
+
 ---
 
-🚀 O que desenvolvo
-APIs REST para sistemas e aplicações
-Automações de tarefas repetitivas
-Bots e automações para processos empresariais
-Integrações com bancos de dados
-Soluções Backend em Python
-Automações Web com Selenium
+# 🚀 O que desenvolvo
+
+- ⚡ APIs REST para sistemas e aplicações;
+
+- 🤖 Automações de tarefas repetitivas;
+
+- 💬 Bots e automações para processos empresariais;
+
+- 🗄️ Integrações com bancos de dados;
+
+- 🐍 Soluções Backend utilizando Python;
+
+- 🌐 Automações Web utilizando Selenium.
+
 ---
 
 ### 🤖 Linguagens
