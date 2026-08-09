@@ -1,21 +1,31 @@
-# 👨‍💻 Lucas Miguel
+👨‍💻 Lucas Miguel
+Desenvolvedor Backend Python | APIs & Automação
 
-## Desenvolvedor Backend Python ##
+Desenvolvedor Backend com Python, focado na criação de APIs REST, automações e integrações com bancos de dados.
 
-Atuo no desenvolvimento Backend com Python, criando APIs REST e aplicações integradas a bancos de dados relacionais, com foco em organização, escalabilidade e boas práticas de desenvolvimento.
+Desenvolvo soluções utilizando FastAPI para construção de APIs e PyAutoGUI e Selenium para automação de processos, buscando reduzir tarefas repetitivas e tornar processos mais eficientes.
 
-Utilizo tecnologias como Python, FastAPI, SQL, SQLAlchemy, Git e GitHub para desenvolver soluções bem estruturadas, mantendo uma evolução contínua por meio da prática e da construção de projetos.
-
+Também trabalho com SQL, SQLAlchemy, Git e GitHub, aplicando boas práticas de desenvolvimento e organização de código.
 ---
 
-## 💻 Especialidades
+💻 Especialidades
+🐍 Desenvolvimento Backend com Python
+⚡ APIs REST com FastAPI
+🤖 Automação de processos com PyAutoGUI
+🌐 Automação Web com Selenium
+🗄️ Bancos de dados SQL
+🔗 SQLAlchemy (ORM)
+🔄 Integração entre sistemas e serviços
+🛠️ Git e GitHub
+---
 
-- Desenvolvimento Backend com Python
-- APIs REST com FastAPI
-- Modelagem e integração com bancos de dados SQL
-- SQLAlchemy (ORM)
-- Versionamento com Git e GitHub
-
+🚀 O que desenvolvo
+APIs REST para sistemas e aplicações
+Automações de tarefas repetitivas
+Bots e automações para processos empresariais
+Integrações com bancos de dados
+Soluções Backend em Python
+Automações Web com Selenium
 ---
 
 ### 🤖 Linguagens
