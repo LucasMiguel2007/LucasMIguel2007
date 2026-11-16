@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Miguel
 
-## Desenvolvedor Full Stack Web
+## Desenvolvedor Full Stack
 
 Desenvolvedor **Full Stack Web**, com foco em **Python, desenvolvimento de APIs, aplicações Web e automação de processos**.
 
